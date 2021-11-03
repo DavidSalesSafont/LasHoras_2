@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body{background-color:#e9b96e;}
+#encabezado{color:brown; text-align:center}
+.parrafo2{position: relative; left: 400px;}
+.parrafo3{position: relative; left: 800px;}
+.parrafos{color:red}
+#encabezado2 {color:brown; text-align:center}
+#encabezado3 {color:brown; text-align:center}
+#encabezado4 {color:brown; text-align:center}
+#encabezadoh2{color:brown; text-align:center; position: relative; top: 20px;}
+#encabezadoh3{color:brown; text-align:center; position: relative; top: 10px;}
+#encabezadoh32{color:brown; text-align:center; position: relative; top: 10px;}
+#img2{position: relative; top: 20px; left: 150px;}
